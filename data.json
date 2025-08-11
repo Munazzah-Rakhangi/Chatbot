@@ -1,0 +1,6 @@
+[
+  {"question": "hi", "answer": "Hello! How can I help you with real estate today?"},
+  {"question": "buy house", "answer": "We have several listings. Could you tell me your preferred location?"},
+  {"question": "rent apartment", "answer": "Sure! What's your budget and desired area?"},
+  {"question": "contact agent", "answer": "You can contact our agent at agent@example.com or call 123-456-7890."}
+]
